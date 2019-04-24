@@ -2,11 +2,13 @@ Be a Master Programmer
 
 Web Design :
   - HTML
-  - CSS (menggunakan framework bootstrap)
-  - Javascript (menggunakan Jquery)
-  - GIT
+  - CSS (use framework bootstrap)
+  - Javascript (use Jquery)
+  - GIT & GITHUB
 
 Web Programming : 
-- PHP Native
+- PHP
 - Object Oriented Programming
 - Laravel Framework
+
+Java Class
