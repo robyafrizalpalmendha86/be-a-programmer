@@ -2,7 +2,7 @@ Be a Master Programmer
 
 Web Design :
   - HTML
-  - CSS (use framework bootstrap)
+  - CSS (use framework materialize)
   - Javascript (use Jquery)
   - GIT & GITHUB
 
@@ -11,8 +11,9 @@ Web Programming :
 - Database
 - Object Oriented Programming
 - Laravel Framework
+- Konsep API (Penting untuk dipelajari)
 
 Java Class
-Menggunakan IDE (Integrated Development Environment) IntellijIDEA
+Menggunakan IDE (Integrated Development Environment) Eclipse, Netbeans & IntellijIDEA
 Java banyak digunakan untuk membuat aplikasi desktop
 Java bisa menggunakan Procedural Paradigm atau OOP Paradigm
