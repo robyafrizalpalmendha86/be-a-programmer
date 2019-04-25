@@ -14,4 +14,6 @@ Web Programming :
 - Konsep API (Penting untuk dipelajari)
 
 Java Class
-Menggunakan IDE (Integrated Development Environment) Eclipse & Netbeans
+Menggunakan IDE (Integrated Development Environment) Eclipse, Netbeans & IntellijIDEA
+Java banyak digunakan untuk membuat aplikasi desktop
+Java bisa menggunakan Procedural Paradigm atau OOP Paradigm
