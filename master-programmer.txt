@@ -8,7 +8,9 @@ Web Design :
 
 Web Programming : 
 - PHP
+- Database
 - Object Oriented Programming
 - Laravel Framework
 
 Java Class
+Menggunakan IDE (Integrated Development Environment) IntellijIDEA
