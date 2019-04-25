@@ -2,7 +2,7 @@ Be a Master Programmer
 
 Web Design :
   - HTML
-  - CSS (use framework bootstrap)
+  - CSS (use framework materialize)
   - Javascript (use Jquery)
   - GIT & GITHUB
 
@@ -14,4 +14,4 @@ Web Programming :
 - Konsep API (Penting untuk dipelajari)
 
 Java Class
-Menggunakan IDE (Integrated Development Environment) IntellijIDEA
+Menggunakan IDE (Integrated Development Environment) Eclipse & Netbeans
